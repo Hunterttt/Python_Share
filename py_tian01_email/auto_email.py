@@ -4,10 +4,10 @@ from email.mime.text import MIMEText
 
 # メールを送信
 def send_mail(subject, message):
-	from_addr = "tianyuanttt@yahoo.co.jp"
-	to_addr = "tianyuan.ttt@hotmail.com"
+	from_addr = "co.jp"
+	to_addr = "hotmail.com"
 	user_name = from_addr
-	passwd = "wasaxqwaxs5"
+	passwd = "wa5"
 	
 	msg = MIMEText(message)
 	msg['Subject'] = subject
