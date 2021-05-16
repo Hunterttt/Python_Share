@@ -19,10 +19,15 @@ def txt_to_list(xfile):
 
 def PortOpen(ip,port):
 #socket try connect
-    s=socket.socket(socket.AF_INET,socket.SOCK_STREAM)
+    s=socket.socket(socket.AF_INET,socket.SOCK_STREAM)     #创建socker实例
 
     try:
         s.connect((ip,port))
+        """
+        If the connection is interrupted by a signal, the method waits until the connection completes, 
+        if the signal handler doesn’t raise an exception and the socket is blocking or has a timeout, raise a socket.timeout on timeout. 
+        For non-blocking sockets, the method raises an InterruptedError exception if the connection is interrupted by a signal (or the exception raised by the signal handler).
+        """
         s.shutdown(2)
         return "Open"
 
