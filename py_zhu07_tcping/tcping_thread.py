@@ -3,8 +3,9 @@ import time
 from pathlib import Path
 import threading
 from queue import Queue
-import ipaddress
+import ipaddress,os,sys
 
+os.chdir(sys.path[0]) 
 
 #将文件逐行读取到一个列表
 with open('tcping_list.txt','r') as temp_file:
@@ -62,12 +63,13 @@ def bubble_sort_improve(lst2):    #进阶冒泡排序法，看笔记
 
 if __name__ == '__main__':
     start_time = time.time()
+    
     # 定义工作线程
-    WORD_THREAD = 10
-    
-    
+    WORD_THREAD = 10       
     threads = []
+    
     lock = threading.Lock()
+
     for i in range(WORD_THREAD):
         thread = threading.Thread(target=tcping)
         thread.start()
@@ -78,13 +80,13 @@ if __name__ == '__main__':
     bubble_sort_improve(ip_True)
     bubble_sort_improve(ip_False)
 
-    ping_Folder = str(Path.cwd())   #获取当前脚本所在路径
+    #ping_Folder = str(Path.cwd())   #获取当前脚本所在路径
 
-    with open(ping_Folder + '/ip_True.txt', 'w+') as ip_Truetxt:
+    with open('ip_True.txt', 'w+') as ip_Truetxt:
         ip_Truetxt.write('\n'.join(ip_True))
         ip_Truetxt.write("\n【ping通的ip数】：%d" % count_True)
 
-    with open(ping_Folder + '/ip_False.txt', 'w+') as ip_Falsetxt:
+    with open('ip_False.txt', 'w+') as ip_Falsetxt:
         ip_Falsetxt.write('\n'.join(ip_False))
         ip_Falsetxt.write("\n【ping不通的ip数】：%d" % count_False)
 

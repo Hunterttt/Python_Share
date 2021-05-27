@@ -1,7 +1,8 @@
-import os,socket,sys
+import os,socket,sys,time
 from pathlib import Path 
 from openpyxl import Workbook
 from netmiko import Netmiko
+
 
 os.chdir(sys.path[0]) 
 
@@ -93,4 +94,6 @@ def main():
     list2d_to_xlsx(result_list,ports_list)
 
 if __name__ == '__main__':
+    start_time = time.time()
     main()
+    print('程序运行耗时：%s' % (time.time() - start_time))
