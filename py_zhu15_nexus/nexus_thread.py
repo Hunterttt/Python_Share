@@ -1,4 +1,4 @@
-import os,socket,sys
+import os,sys
 from openpyxl import Workbook
 from netmiko import Netmiko
 import time
@@ -9,15 +9,10 @@ import numpy
 
 os.chdir(sys.path[0]) 
 
-ports = input("Enter the ports you want to check, use ',' to separate, then press Enter\nEX '22,23,139'\n: ")
-ports_list = [int(n) for n in ports.split(",")]    #逗号隔开变数组
-
-socket.setdefaulttimeout(4)
-
 q = queue.Queue()
 
 
-def txt_to_list(xfile):
+def Txt_To_List(xfile):
 #将文件逐行读取到一个列表
     with open(xfile, "r") as temp_file:
         xlist = [line.strip() for line in temp_file if line.strip()]
@@ -25,62 +20,38 @@ def txt_to_list(xfile):
 
 
 
-def PortOpen(ip,port):
-#socket try connect
-    s=socket.socket(socket.AF_INET,socket.SOCK_STREAM)     #创建socker实例
+def Input(ip):
 
+    my_device = {
+    "host": ip,
+    "username": "admin",
+    "password": "Admin@123",
+    "device_type": "cisco_ios",
+    }
     try:
-        s.connect((ip,port))
-        """
-        If the connection is interrupted by a signal, the method waits until the connection completes, 
-        if the signal handler doesn’t raise an exception and the socket is blocking or has a timeout, raise a socket.timeout on timeout. 
-        For non-blocking sockets, the method raises an InterruptedError exception if the connection is interrupted by a signal (or the exception raised by the signal handler).
-        """
-        s.shutdown(2)
-
-        if port == 22:
-            my_device = {
-            "host": ip,
-            "username": "admin",
-            "password": "admin@123",
-            "device_type": "cisco_ios",
-            }
-
-            try:
-                net_connect = Netmiko(**my_device)
-                net_connect.disconnect()
-
-                return "access"
-
-            except:
-                return "cannot access"
-
-        #return "Open"
-
-    except socket.timeout:
-        return "CLOSE/TIMEOUT"
-        			
+        net_connect = Netmiko(**my_device)
+        result = net_connect.send_config_from_file(config_file='commands.txt')
+        net_connect.disconnect()
+        return "done"
     except:
-        return "CLOSE"
+        return "something wrong"
 
 
-
-def Check(tports_list):
-#从线程队列里提取要检查的IP
+def Input_Thread():
+#从线程列表中拿ip
     while not q.empty():
         ip = q.get()  
         
         print("Checking %s..." %ip)
         row = [] 
         row.append(ip)
-        for j in range(len(tports_list)):    #同一个循环，会顺序执行，得到第一个的结果后才会执行第二个，不用担心顺序           
-            row.append(PortOpen(ip,ports_list[j]))
-            #time.sleep(5)
-            #print(ip,tports_list[j])
+                   
+        row.append(Input(ip))
+
         temp_result_list2d.append(row)
 
 
-def list2d_to_dict(xlist2d):
+def List2d_To_Dict(xlist2d):
 #把列表中的第一个元素作为字典的key，剩下的作为值
     xdict = {}
     for i in range(len(xlist2d)):
@@ -92,7 +63,7 @@ def list2d_to_dict(xlist2d):
     return(xdict)
 
 
-def dict0_to_list(xdict):
+def Dict0_To_List(xdict):
 #把字典中的key提取出来，放在一个列表里
     xlist = []
     for key in xdict:
@@ -100,7 +71,7 @@ def dict0_to_list(xdict):
     return(xlist)
 
 
-def bubble_sort_improve(lst2):    #进阶冒泡排序法，看笔记
+def Bubble_Sort_Improve(lst2):    #进阶冒泡排序法，看笔记
 #对key列表进行排序
     lstlen = len(lst2)
     i = 1; times = 0
@@ -122,11 +93,10 @@ def bubble_sort_improve(lst2):    #进阶冒泡排序法，看笔记
 
 
 if __name__ == '__main__':
-    start_time = time.time()
 
     temp_result_list2d = []     #全局数组，多线程的结果汇集
 
-    ip_list = txt_to_list('iplist.txt')
+    ip_list = Txt_To_List('iplist.txt')
 
 
     for i in range(len(ip_list)):
@@ -136,7 +106,7 @@ if __name__ == '__main__':
     threads = []
 
     for i in range(THREAD):       
-        thread = threading.Thread(target=Check,args=(ports_list,))
+        thread = threading.Thread(target=Input_Thread)
         thread.start()
         threads.append(thread)
     for thread in threads:
@@ -144,11 +114,11 @@ if __name__ == '__main__':
 
 
     temp_dict = {}
-    temp_dict = list2d_to_dict(temp_result_list2d)
+    temp_dict = List2d_To_Dict(temp_result_list2d)
     #sorted_list = sorted(result_list,key=(lambda x:x[0]))
-    dict0_list = dict0_to_list(temp_dict)        #得到IP列表
+    dict0_list = Dict0_To_List(temp_dict)        #得到IP列表
 
-    sort_dict0_list = bubble_sort_improve(dict0_list)
+    sort_dict0_list = Bubble_Sort_Improve(dict0_list)
 
     #print(sort_dict0_list)
 
@@ -157,8 +127,8 @@ if __name__ == '__main__':
     ws = wb.active
     title_list = []
     title_list.append('IP')
-    for title in ports_list:
-        title_list.append(title)
+    title_list.append('Result')
+
 
     ws.append(title_list)
 
@@ -174,7 +144,5 @@ if __name__ == '__main__':
         row.extend(temp_dict[sort_dict0_list[i]])    #把字典里key对应的值重新接上
         #print(row)
         ws.append(row)
-    wb.save('Port Check.xlsx')
+    wb.save('Result.xlsx')
 
-
-    print('程序运行耗时：%s' % (time.time() - start_time))
