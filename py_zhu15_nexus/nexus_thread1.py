@@ -1,10 +1,8 @@
 import os,sys
 from openpyxl import Workbook
 from netmiko import Netmiko
-import time
 import threading
 import queue
-import ipaddress
 import numpy
 
 os.chdir(sys.path[0]) 
@@ -28,8 +26,8 @@ def Input(ip):
     "device_type": "cisco_ios",
     }
     try:
-        net_connect = Netmiko(**my_device)
-        result = net_connect.send_config_from_file(config_file='commands.txt')
+        net_connect = Netmiko(**my_device)     #Netmiko是一个类，net_connect是一个实例，my_device是产生实例时需要的数据属性
+        result = net_connect.send_config_from_file(config_file='commands.txt')    #通过实例去调用类函数，实例本身并没有函数属性，是通过风湿理论去调用类里的函数
         net_connect.disconnect()
         return "done"
     except:

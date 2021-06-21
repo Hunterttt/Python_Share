@@ -8,14 +8,14 @@ import json
 import sys
 
 # All APIC-EM configuration is in apicem_config.py
-import apicem_config  # APIC-EM IP is assigned in apicem_config.py
-from tabulate import tabulate # Pretty-print tabular data in Python
+###import apicem_config  # APIC-EM IP is assigned in apicem_config.py
+###from tabulate import tabulate # Pretty-print tabular data in Python
 
 # It's used to get rid of certificate warning messages when using Python 3.
 # For more information please refer to: https://urllib3.readthedocs.org/en/latest/security.html
 requests.packages.urllib3.disable_warnings() # Disable warning message
 
-def get_X_auth_token(ip=apicem_config.APICEM_IP,ver=apicem_config.VERSION,uname=apicem_config.USERNAME,pword=apicem_config.PASSWORD):
+def get_X_auth_token(ip,ver,uname,pword):
     """
     This function returns a new service ticket.
     Passing ip, version,username and password when use as standalone function
@@ -37,7 +37,7 @@ def get_X_auth_token(ip=apicem_config.APICEM_IP,ver=apicem_config.VERSION,uname=
     "password": pword
     }
     # The url for the post ticket API request
-    post_url = "https://"+ip+"/api/"+ver+"/ticket"
+    post_url = "https://"+ip+"/api/fdm/"+ver+"/ticket"
     # All APIC-EM REST API query and response content type is JSON
     headers = {'content-type': 'application/json'}
     # POST request and response
@@ -54,7 +54,7 @@ def get_X_auth_token(ip=apicem_config.APICEM_IP,ver=apicem_config.VERSION,uname=
         print ("Response: %s"%r.text)
         sys.exit ()
 
-def get(ip=apicem_config.APICEM_IP,ver=apicem_config.VERSION,uname=apicem_config.USERNAME,pword=apicem_config.PASSWORD,api='',params=''):
+def get(ip,ver,uname,pword,api='',params=''):
     """
     To simplify requests.get with default configuration.Return is the same as requests.get
     Parameters
@@ -71,7 +71,7 @@ def get(ip=apicem_config.APICEM_IP,ver=apicem_config.VERSION,uname=apicem_config
     """
     ticket = get_X_auth_token(ip,ver,uname,pword)
     headers = {"X-Auth-Token": ticket}
-    url = "https://"+ip+"/api/"+ver+"/"+api
+    url = "https://"+ip+"/api/fdm/"+ver+"/"+api
     print ("\nExecuting GET '%s'\n"%url)
     try:
     # The request and response of "GET" request
@@ -82,7 +82,7 @@ def get(ip=apicem_config.APICEM_IP,ver=apicem_config.VERSION,uname=apicem_config
        print ("Something wrong with GET /",api)
        sys.exit()
 
-def post(ip=apicem_config.APICEM_IP,ver=apicem_config.VERSION,uname=apicem_config.USERNAME,pword=apicem_config.PASSWORD,api='',data=''):
+def post(ip,ver,uname,pword,api='',data=''):
     """
     To simplify requests.post with default configuration. Return is the same as requests.post
     Parameters
@@ -99,7 +99,7 @@ def post(ip=apicem_config.APICEM_IP,ver=apicem_config.VERSION,uname=apicem_confi
     """
     ticket = get_X_auth_token(ip,ver,uname,pword)
     headers = {"content-type" : "application/json","X-Auth-Token": ticket}
-    url = "https://"+ip+"/api/"+ver+"/"+api
+    url = "https://"+ip+"/api/fdm/"+ver+"/"+api
     print ("\nExecuting POST '%s'\n"%url)
     try:
     # The request and response of "POST" request
@@ -110,7 +110,7 @@ def post(ip=apicem_config.APICEM_IP,ver=apicem_config.VERSION,uname=apicem_confi
        print ("Something wrong with POST /",api)
        sys.exit()
 
-def put(ip=apicem_config.APICEM_IP,ver=apicem_config.VERSION,uname=apicem_config.USERNAME,pword=apicem_config.PASSWORD,api='',data=''):
+def put(ip,ver,uname,pword,api='',data=''):
     """
     To simplify requests.put with default configuration.Return is the same as requests.put
     Parameters
@@ -127,7 +127,7 @@ def put(ip=apicem_config.APICEM_IP,ver=apicem_config.VERSION,uname=apicem_config
     """
     ticket = get_X_auth_token(ip,ver,uname,pword)
     headers = {"content-type" : "application/json","X-Auth-Token": ticket}
-    url = "https://"+ip+"/api/"+ver+"/"+api
+    url = "https://"+ip+"/api/fdm/"+ver+"/"+api
     print ("\nExecuting PUT '%s'\n"%url)
     try:
     # The request and response of "PUT" request
@@ -138,7 +138,7 @@ def put(ip=apicem_config.APICEM_IP,ver=apicem_config.VERSION,uname=apicem_config
        print ("Something wrong with PUT /",api)
        sys.exit()
 
-def delete(ip=apicem_config.APICEM_IP,ver=apicem_config.VERSION,uname=apicem_config.USERNAME,pword=apicem_config.PASSWORD,api='',params=''):
+def delete(ip,ver,uname,pword,api='',params=''):
     """
     To simplify requests.delete with default configuration.Return is the same as requests.delete
     Parameters
@@ -155,7 +155,7 @@ def delete(ip=apicem_config.APICEM_IP,ver=apicem_config.VERSION,uname=apicem_con
     """
     ticket = get_X_auth_token(ip,ver,uname,pword)
     headers = {"content-type" : "application/json","X-Auth-Token": ticket}
-    url = "https://"+ip+"/api/"+ver+"/"+api
+    url = "https://"+ip+"/api/fdm/"+ver+"/"+api
     print ("\nExecuting DELETE '%s'\n"%url)
     try:
     # The request and response of "DELETE" request
