@@ -74,7 +74,7 @@ def show_to_list(xlist):
         
         net_connect.disconnect()
 
-        all_sw.extend(one_sw)
+        all_sw.extend(one_sw)       #将两个列表合并成一个列表
 
     #print(all_sw)
 
