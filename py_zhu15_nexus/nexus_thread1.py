@@ -11,7 +11,7 @@ q = queue.Queue()
 
 
 def Txt_To_List(xfile):
-#将文件逐行读取到一个列表
+#将文件逐行读取到一个列表，跳过空行
     with open(xfile, "r") as temp_file:
         xlist = [line.strip() for line in temp_file if line.strip()]
     return(xlist)

@@ -20,7 +20,7 @@ count_True, count_False = 0, 0
 ip_False = []
 ip_True = []
 
-def tcping():
+def tcp_ping():
 #导入要执行的命令行列表
     global count_True, count_False
     global ip_False, ip_True
@@ -64,14 +64,13 @@ def bubble_sort_improve(lst2):    #进阶冒泡排序法，看笔记
 if __name__ == '__main__':
     start_time = time.time()
     
-    # 定义工作线程
-    WORD_THREAD = 10       
+    WORD_THREAD = 10         # 定义工作线程  
     threads = []
     
-    lock = threading.Lock()
+    lock = threading.Lock()    #在此定义lock锁，因为接下来的tcping里面要调用lock
 
     for i in range(WORD_THREAD):
-        thread = threading.Thread(target=tcping)
+        thread = threading.Thread(target=tcp_ping)
         thread.start()
         threads.append(thread)
     for thread in threads:
