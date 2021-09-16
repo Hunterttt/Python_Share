@@ -2,6 +2,9 @@ import requests
 from bs4 import BeautifulSoup
 from fake_useragent import UserAgent
 from openpyxl import Workbook
+import os,sys
+
+os.chdir(sys.path[0])
 
 def txt_to_list(xfile):
 #将文件逐行读取到一个列表

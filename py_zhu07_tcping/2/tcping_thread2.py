@@ -3,7 +3,6 @@ import openpyxl
 from netmiko import Netmiko
 import threading
 import queue
-import numpy
 import subprocess
 
 os.chdir(sys.path[0]) 

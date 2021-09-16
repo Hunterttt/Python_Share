@@ -1,4 +1,7 @@
 import re
+import os,sys
+
+os.chdir(sys.path[0]) 
 
 def strlist_to_numlist(strlist):
 #将字符数组转化为数字数组
