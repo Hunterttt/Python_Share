@@ -44,11 +44,11 @@ if __name__ == '__main__':
 
         for j in range(len(cell_list2d[i])):         #遍历所有单元格
             #print(cell_list2d[i][j])
-            if '-' in str(cell_list2d[i][j]):
+            if '-' in str(cell_list2d[i][j]):       #注意这个地方要把单元格里的数据统一改成字符串str
                 cell_list = str(cell_list2d[i][j]).split('-')     #拆成前后两个数字
                 spl = []
                 k = 0
-                while int(cell_list[0]) + k <= int(cell_list[1]):
+                while int(cell_list[0]) + k <= int(cell_list[1]):  #需要计算的地方，要把单元格里的数据改成整型int
                     spl.append(int(cell_list[0])+k)          #将两个数字中的所有数字放在一个列表里
                     k+=1
                 #print(spl)
