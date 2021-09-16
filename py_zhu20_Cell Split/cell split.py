@@ -37,7 +37,7 @@ def list2d_to_xlsx(xlist2d):
 
 
 if __name__ == '__main__':
-    r_cell_list2d = []
+    r_cell_list2d = []    #设一个空数组来存放整理后的值
     cell_list2d = excel_to_list2d('Need Split.xlsx', 0)
     for i in range(len(cell_list2d)):
         a = 0   #是一个判断量
