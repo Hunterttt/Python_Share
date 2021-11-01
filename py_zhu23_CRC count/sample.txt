@@ -1,0 +1,38 @@
+Ethernet1/1 is up
+ Dedicated Interface 
+  Belongs to Po907
+  Hardware: 1000/10000 Ethernet, address: 002a.6ae0.8448 (bia 002a.6ae0.8448)
+  Description: to->StandAline-1-1/5
+  MTU 1500 bytes, BW 10000000 Kbit, DLY 10 usec
+  reliability 255/255, txload 1/255, rxload 1/255
+  Encapsulation ARPA
+  Port mode is trunk
+  full-duplex, 10 Gb/s, media type is 10G
+  Beacon is turned off
+  Input flow-control is off, output flow-control is off
+  Rate mode is dedicated
+  Switchport monitor is off 
+  EtherType is 0x8100 
+  Last link flapped 4week(s) 6day(s)
+  Last clearing of "show interface" counters never
+  1 interface resets
+  30 seconds input rate 3568 bits/sec, 1 packets/sec
+  30 seconds output rate 3936 bits/sec, 2 packets/sec
+  Load-Interval #2: 5 minute (300 seconds)
+    input rate 483.79 Kbps, 1 pps; output rate 5.77 Kbps, 1 pps
+  RX
+    267394368 unicast packets  2760289 multicast packets  0 broadcast packets
+    270154657 input packets  356076009707 bytes
+    222872707 jumbo packets  0 storm suppression bytes
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 watchdog  0 bad etype drop  0 bad proto drop  0 if down drop
+    0 input with dribble  0 input discard
+    0 Rx pause
+  TX
+    118557008 unicast packets  1329329 multicast packets  2 broadcast packets
+    119886339 output packets  62761132205 bytes
+    27462656 jumbo packets
+    0 output error  0 collision  0 deferred  0 late collision
+    0 lost carrier  0 no carrier  0 babble 0 output discard
+    0 Tx pause
