@@ -1,0 +1,1402 @@
+Ethernet1/1 is up
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b48 (bia 003a.9c48.6b48)
+    0 runts  0 giants  9 CRC  0 no buffer
+    9 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/2 is up
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b49 (bia 003a.9c48.6b49)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/3 is up
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b4a (bia 003a.9c48.6b4a)
+    0 runts  0 giants  1 CRC  0 no buffer
+    1 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/4 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b4b (bia 003a.9c48.6b4b)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/5 is up
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b4c (bia 003a.9c48.6b4c)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/6 is up
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b4d (bia 003a.9c48.6b4d)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/7 is up
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b4e (bia 003a.9c48.6b4e)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/8 is up
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b4f (bia 003a.9c48.6b4f)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/9 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b50 (bia 003a.9c48.6b50)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/10 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b51 (bia 003a.9c48.6b51)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/11 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b52 (bia 003a.9c48.6b52)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/12 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b53 (bia 003a.9c48.6b53)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/13 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b54 (bia 003a.9c48.6b54)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/14 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b55 (bia 003a.9c48.6b55)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/15 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b56 (bia 003a.9c48.6b56)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/16 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b57 (bia 003a.9c48.6b57)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/17 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b58 (bia 003a.9c48.6b58)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/18 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b59 (bia 003a.9c48.6b59)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/19 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b5a (bia 003a.9c48.6b5a)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/20 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b5b (bia 003a.9c48.6b5b)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/21 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b5c (bia 003a.9c48.6b5c)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/22 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b5d (bia 003a.9c48.6b5d)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/23 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b5e (bia 003a.9c48.6b5e)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/24 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b5f (bia 003a.9c48.6b5f)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/25 is up
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b60 (bia 003a.9c48.6b60)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/26 is up
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b61 (bia 003a.9c48.6b61)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/27 is up
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b62 (bia 003a.9c48.6b62)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/28 is up
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b63 (bia 003a.9c48.6b63)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/29 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b64 (bia 003a.9c48.6b64)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/30 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b65 (bia 003a.9c48.6b65)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/31 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b66 (bia 003a.9c48.6b66)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/32 is up
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b67 (bia 003a.9c48.6b67)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/33 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b68 (bia 003a.9c48.6b68)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/34 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b69 (bia 003a.9c48.6b69)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/35 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b6a (bia 003a.9c48.6b6a)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/36 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b6b (bia 003a.9c48.6b6b)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/37 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b6c (bia 003a.9c48.6b6c)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/38 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b6d (bia 003a.9c48.6b6d)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/39 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b6e (bia 003a.9c48.6b6e)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/40 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b6f (bia 003a.9c48.6b6f)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/41 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b70 (bia 003a.9c48.6b70)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/42 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b71 (bia 003a.9c48.6b71)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/43 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b72 (bia 003a.9c48.6b72)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/44 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b73 (bia 003a.9c48.6b73)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/45 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b74 (bia 003a.9c48.6b74)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/46 is up
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b81 (bia 003a.9c48.6b75)
+  Internet Address is 1.1.1.1/30
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/47 is up
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b76 (bia 003a.9c48.6b76)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet1/48 is up
+  Hardware: 1000/10000 Ethernet, address: 003a.9c48.6b77 (bia 003a.9c48.6b77)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet2/1 is down (SFP not inserted)
+  Hardware: 40000 Ethernet, address: 003a.9c48.6b78 (bia 003a.9c48.6b78)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet2/2 is down (SFP not inserted)
+  Hardware: 40000 Ethernet, address: 003a.9c48.6b79 (bia 003a.9c48.6b79)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet2/3 is down (SFP not inserted)
+  Hardware: 40000 Ethernet, address: 003a.9c48.6b7a (bia 003a.9c48.6b7a)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet2/4 is down (SFP not inserted)
+  Hardware: 40000 Ethernet, address: 003a.9c48.6b7b (bia 003a.9c48.6b7b)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet2/5 is up
+  Hardware: 40000 Ethernet, address: 003a.9c48.6b7c (bia 003a.9c48.6b7c)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet2/6 is up
+  Hardware: 40000 Ethernet, address: 003a.9c48.6b7d (bia 003a.9c48.6b7d)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+  Hardware: GigabitEthernet, address: 003a.9c48.6b41 (bia 003a.9c48.6b41)
+  Internet Address is 10.19.254.11/24
+Ethernet101/1/1 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.ffc2 (bia 00aa.6ebc.ffc2)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet101/1/2 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.ffc3 (bia 00aa.6ebc.ffc3)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet101/1/3 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.ffc4 (bia 00aa.6ebc.ffc4)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet101/1/4 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.ffc5 (bia 00aa.6ebc.ffc5)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet101/1/5 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.ffc6 (bia 00aa.6ebc.ffc6)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet101/1/6 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.ffc7 (bia 00aa.6ebc.ffc7)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet101/1/7 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.ffc8 (bia 00aa.6ebc.ffc8)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet101/1/8 is down (Link not connected)
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.ffc9 (bia 00aa.6ebc.ffc9)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet101/1/9 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.ffca (bia 00aa.6ebc.ffca)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet101/1/10 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.ffcb (bia 00aa.6ebc.ffcb)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet101/1/11 is down (Link not connected)
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.ffcc (bia 00aa.6ebc.ffcc)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet101/1/12 is down (Link not connected)
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.ffcd (bia 00aa.6ebc.ffcd)
+    156 runts  0 giants  37 CRC  0 no buffer
+    193 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet101/1/13 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.ffce (bia 00aa.6ebc.ffce)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet101/1/14 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.ffcf (bia 00aa.6ebc.ffcf)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet101/1/15 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.ffd0 (bia 00aa.6ebc.ffd0)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet101/1/16 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.ffd1 (bia 00aa.6ebc.ffd1)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet101/1/17 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.ffd2 (bia 00aa.6ebc.ffd2)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet101/1/18 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.ffd3 (bia 00aa.6ebc.ffd3)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet101/1/19 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.ffd4 (bia 00aa.6ebc.ffd4)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet101/1/20 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.ffd5 (bia 00aa.6ebc.ffd5)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet101/1/21 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.ffd6 (bia 00aa.6ebc.ffd6)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet101/1/22 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.ffd7 (bia 00aa.6ebc.ffd7)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet101/1/23 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.ffd8 (bia 00aa.6ebc.ffd8)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet101/1/24 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.ffd9 (bia 00aa.6ebc.ffd9)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet101/1/25 is down (Link not connected)
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.ffda (bia 00aa.6ebc.ffda)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet101/1/26 is down (Link not connected)
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.ffdb (bia 00aa.6ebc.ffdb)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet101/1/27 is down (Link not connected)
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.ffdc (bia 00aa.6ebc.ffdc)
+    488 runts  0 giants  3 CRC  0 no buffer
+    491 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet101/1/28 is down (Link not connected)
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.ffdd (bia 00aa.6ebc.ffdd)
+    1 runts  0 giants  0 CRC  0 no buffer
+    1 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet101/1/29 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.ffde (bia 00aa.6ebc.ffde)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet101/1/30 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.ffdf (bia 00aa.6ebc.ffdf)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet101/1/31 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.ffe0 (bia 00aa.6ebc.ffe0)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet101/1/32 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.ffe1 (bia 00aa.6ebc.ffe1)
+    1 runts  0 giants  0 CRC  0 no buffer
+    1 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet102/1/1 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8bc2 (bia 00d6.fe75.8bc2)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet102/1/2 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8bc3 (bia 00d6.fe75.8bc3)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet102/1/3 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8bc4 (bia 00d6.fe75.8bc4)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet102/1/4 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8bc5 (bia 00d6.fe75.8bc5)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet102/1/5 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8bc6 (bia 00d6.fe75.8bc6)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet102/1/6 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8bc7 (bia 00d6.fe75.8bc7)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet102/1/7 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8bc8 (bia 00d6.fe75.8bc8)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet102/1/8 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8bc9 (bia 00d6.fe75.8bc9)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet102/1/9 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8bca (bia 00d6.fe75.8bca)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet102/1/10 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8bcb (bia 00d6.fe75.8bcb)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet102/1/11 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8bcc (bia 00d6.fe75.8bcc)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet102/1/12 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8bcd (bia 00d6.fe75.8bcd)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet102/1/13 is down (Link not connected)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8bce (bia 00d6.fe75.8bce)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet102/1/14 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8bcf (bia 00d6.fe75.8bcf)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet102/1/15 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8bd0 (bia 00d6.fe75.8bd0)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet102/1/16 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8bd1 (bia 00d6.fe75.8bd1)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet102/1/17 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8bd2 (bia 00d6.fe75.8bd2)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet102/1/18 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8bd3 (bia 00d6.fe75.8bd3)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet102/1/19 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8bd4 (bia 00d6.fe75.8bd4)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet102/1/20 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8bd5 (bia 00d6.fe75.8bd5)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet102/1/21 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8bd6 (bia 00d6.fe75.8bd6)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet102/1/22 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8bd7 (bia 00d6.fe75.8bd7)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet102/1/23 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8bd8 (bia 00d6.fe75.8bd8)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet102/1/24 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8bd9 (bia 00d6.fe75.8bd9)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet102/1/25 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8bda (bia 00d6.fe75.8bda)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet102/1/26 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8bdb (bia 00d6.fe75.8bdb)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet102/1/27 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8bdc (bia 00d6.fe75.8bdc)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet102/1/28 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8bdd (bia 00d6.fe75.8bdd)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet102/1/29 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8bde (bia 00d6.fe75.8bde)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet102/1/30 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8bdf (bia 00d6.fe75.8bdf)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet102/1/31 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8be0 (bia 00d6.fe75.8be0)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet102/1/32 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8be1 (bia 00d6.fe75.8be1)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet103/1/1 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.fcc2 (bia 00aa.6ebc.fcc2)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet103/1/2 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.fcc3 (bia 00aa.6ebc.fcc3)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet103/1/3 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.fcc4 (bia 00aa.6ebc.fcc4)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet103/1/4 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.fcc5 (bia 00aa.6ebc.fcc5)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet103/1/5 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.fcc6 (bia 00aa.6ebc.fcc6)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet103/1/6 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.fcc7 (bia 00aa.6ebc.fcc7)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet103/1/7 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.fcc8 (bia 00aa.6ebc.fcc8)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet103/1/8 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.fcc9 (bia 00aa.6ebc.fcc9)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet103/1/9 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.fcca (bia 00aa.6ebc.fcca)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet103/1/10 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.fccb (bia 00aa.6ebc.fccb)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet103/1/11 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.fccc (bia 00aa.6ebc.fccc)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet103/1/12 is down (Administratively down)
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.fccd (bia 00aa.6ebc.fccd)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet103/1/13 is down (Administratively down)
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.fcce (bia 00aa.6ebc.fcce)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet103/1/14 is down (Administratively down)
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.fccf (bia 00aa.6ebc.fccf)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet103/1/15 is down (Administratively down)
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.fcd0 (bia 00aa.6ebc.fcd0)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet103/1/16 is down (Administratively down)
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.fcd1 (bia 00aa.6ebc.fcd1)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet103/1/17 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.fcd2 (bia 00aa.6ebc.fcd2)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet103/1/18 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.fcd3 (bia 00aa.6ebc.fcd3)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet103/1/19 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.fcd4 (bia 00aa.6ebc.fcd4)
+    35 runts  0 giants  12 CRC  0 no buffer
+    47 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet103/1/20 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.fcd5 (bia 00aa.6ebc.fcd5)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet103/1/21 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.fcd6 (bia 00aa.6ebc.fcd6)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet103/1/22 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.fcd7 (bia 00aa.6ebc.fcd7)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet103/1/23 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.fcd8 (bia 00aa.6ebc.fcd8)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet103/1/24 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.fcd9 (bia 00aa.6ebc.fcd9)
+    133 runts  0 giants  15 CRC  0 no buffer
+    148 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet103/1/25 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.fcda (bia 00aa.6ebc.fcda)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet103/1/26 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.fcdb (bia 00aa.6ebc.fcdb)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet103/1/27 is down (Administratively down)
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.fcdc (bia 00aa.6ebc.fcdc)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet103/1/28 is down (Administratively down)
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.fcdd (bia 00aa.6ebc.fcdd)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet103/1/29 is down (Link not connected)
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.fcde (bia 00aa.6ebc.fcde)
+    15732 runts  0 giants  3543 CRC  0 no buffer
+    19275 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet103/1/30 is up
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.fcdf (bia 00aa.6ebc.fcdf)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet103/1/31 is down (Link not connected)
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.fce0 (bia 00aa.6ebc.fce0)
+    1805342 runts  0 giants  262211 CRC  0 no buffer
+    2067553 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet103/1/32 is down (Link not connected)
+  Hardware: 1000/10000 Ethernet, address: 00aa.6ebc.fce1 (bia 00aa.6ebc.fce1)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet105/1/1 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8282 (bia 00d6.fe75.8282)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet105/1/2 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8283 (bia 00d6.fe75.8283)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet105/1/3 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8284 (bia 00d6.fe75.8284)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet105/1/4 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8285 (bia 00d6.fe75.8285)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet105/1/5 is down (Link not connected)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8286 (bia 00d6.fe75.8286)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet105/1/6 is down (Link not connected)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8287 (bia 00d6.fe75.8287)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet105/1/7 is down (Link not connected)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8288 (bia 00d6.fe75.8288)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet105/1/8 is down (Link not connected)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8289 (bia 00d6.fe75.8289)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet105/1/9 is down (Link not connected)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.828a (bia 00d6.fe75.828a)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet105/1/10 is down (Link not connected)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.828b (bia 00d6.fe75.828b)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet105/1/11 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.828c (bia 00d6.fe75.828c)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet105/1/12 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.828d (bia 00d6.fe75.828d)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet105/1/13 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.828e (bia 00d6.fe75.828e)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet105/1/14 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.828f (bia 00d6.fe75.828f)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet105/1/15 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8290 (bia 00d6.fe75.8290)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet105/1/16 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8291 (bia 00d6.fe75.8291)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet105/1/17 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8292 (bia 00d6.fe75.8292)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet105/1/18 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8293 (bia 00d6.fe75.8293)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet105/1/19 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8294 (bia 00d6.fe75.8294)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet105/1/20 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8295 (bia 00d6.fe75.8295)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet105/1/21 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8296 (bia 00d6.fe75.8296)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet105/1/22 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8297 (bia 00d6.fe75.8297)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet105/1/23 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8298 (bia 00d6.fe75.8298)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet105/1/24 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8299 (bia 00d6.fe75.8299)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet105/1/25 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.829a (bia 00d6.fe75.829a)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet105/1/26 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.829b (bia 00d6.fe75.829b)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet105/1/27 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.829c (bia 00d6.fe75.829c)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet105/1/28 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.829d (bia 00d6.fe75.829d)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet105/1/29 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.829e (bia 00d6.fe75.829e)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet105/1/30 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.829f (bia 00d6.fe75.829f)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet105/1/31 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.82a0 (bia 00d6.fe75.82a0)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet105/1/32 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.82a1 (bia 00d6.fe75.82a1)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet106/1/1 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe74.87a2 (bia 00d6.fe74.87a2)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet106/1/2 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe74.87a3 (bia 00d6.fe74.87a3)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet106/1/3 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe74.87a4 (bia 00d6.fe74.87a4)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet106/1/4 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe74.87a5 (bia 00d6.fe74.87a5)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet106/1/5 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe74.87a6 (bia 00d6.fe74.87a6)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet106/1/6 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe74.87a7 (bia 00d6.fe74.87a7)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet106/1/7 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe74.87a8 (bia 00d6.fe74.87a8)
+    3 runts  0 giants  3 CRC  0 no buffer
+    6 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet106/1/8 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe74.87a9 (bia 00d6.fe74.87a9)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet106/1/9 is down (Link not connected)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe74.87aa (bia 00d6.fe74.87aa)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet106/1/10 is down (Link not connected)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe74.87ab (bia 00d6.fe74.87ab)
+    176 runts  0 giants  0 CRC  0 no buffer
+    176 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet106/1/11 is down (Link not connected)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe74.87ac (bia 00d6.fe74.87ac)
+    5 runts  0 giants  0 CRC  0 no buffer
+    5 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet106/1/12 is down (Administratively down)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe74.87ad (bia 00d6.fe74.87ad)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet106/1/13 is down (Administratively down)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe74.87ae (bia 00d6.fe74.87ae)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet106/1/14 is down (Administratively down)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe74.87af (bia 00d6.fe74.87af)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet106/1/15 is down (Administratively down)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe74.87b0 (bia 00d6.fe74.87b0)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet106/1/16 is down (Administratively down)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe74.87b1 (bia 00d6.fe74.87b1)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet106/1/17 is down (Administratively down)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe74.87b2 (bia 00d6.fe74.87b2)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet106/1/18 is down (Administratively down)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe74.87b3 (bia 00d6.fe74.87b3)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet106/1/19 is down (Administratively down)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe74.87b4 (bia 00d6.fe74.87b4)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet106/1/20 is down (Administratively down)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe74.87b5 (bia 00d6.fe74.87b5)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet106/1/21 is down (Administratively down)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe74.87b6 (bia 00d6.fe74.87b6)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet106/1/22 is down (Administratively down)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe74.87b7 (bia 00d6.fe74.87b7)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet106/1/23 is down (Administratively down)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe74.87b8 (bia 00d6.fe74.87b8)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet106/1/24 is down (Administratively down)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe74.87b9 (bia 00d6.fe74.87b9)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet106/1/25 is down (Administratively down)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe74.87ba (bia 00d6.fe74.87ba)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet106/1/26 is down (Administratively down)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe74.87bb (bia 00d6.fe74.87bb)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet106/1/27 is down (Administratively down)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe74.87bc (bia 00d6.fe74.87bc)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet106/1/28 is down (Administratively down)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe74.87bd (bia 00d6.fe74.87bd)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet106/1/29 is down (Administratively down)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe74.87be (bia 00d6.fe74.87be)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet106/1/30 is down (Administratively down)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe74.87bf (bia 00d6.fe74.87bf)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet106/1/31 is down (Administratively down)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe74.87c0 (bia 00d6.fe74.87c0)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet106/1/32 is down (Administratively down)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe74.87c1 (bia 00d6.fe74.87c1)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet107/1/1 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8902 (bia 00d6.fe75.8902)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet107/1/2 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8903 (bia 00d6.fe75.8903)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet107/1/3 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8904 (bia 00d6.fe75.8904)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet107/1/4 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8905 (bia 00d6.fe75.8905)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet107/1/5 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8906 (bia 00d6.fe75.8906)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet107/1/6 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8907 (bia 00d6.fe75.8907)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet107/1/7 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8908 (bia 00d6.fe75.8908)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet107/1/8 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8909 (bia 00d6.fe75.8909)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet107/1/9 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.890a (bia 00d6.fe75.890a)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet107/1/10 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.890b (bia 00d6.fe75.890b)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet107/1/11 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.890c (bia 00d6.fe75.890c)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet107/1/12 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.890d (bia 00d6.fe75.890d)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet107/1/13 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.890e (bia 00d6.fe75.890e)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet107/1/14 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.890f (bia 00d6.fe75.890f)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet107/1/15 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8910 (bia 00d6.fe75.8910)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet107/1/16 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8911 (bia 00d6.fe75.8911)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet107/1/17 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8912 (bia 00d6.fe75.8912)
+    0 runts  0 giants  12 CRC  0 no buffer
+    12 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet107/1/18 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8913 (bia 00d6.fe75.8913)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet107/1/19 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8914 (bia 00d6.fe75.8914)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet107/1/20 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8915 (bia 00d6.fe75.8915)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet107/1/21 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8916 (bia 00d6.fe75.8916)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet107/1/22 is down (Link not connected)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8917 (bia 00d6.fe75.8917)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet107/1/23 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8918 (bia 00d6.fe75.8918)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet107/1/24 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8919 (bia 00d6.fe75.8919)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet107/1/25 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.891a (bia 00d6.fe75.891a)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet107/1/26 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.891b (bia 00d6.fe75.891b)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet107/1/27 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.891c (bia 00d6.fe75.891c)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet107/1/28 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.891d (bia 00d6.fe75.891d)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet107/1/29 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.891e (bia 00d6.fe75.891e)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet107/1/30 is up
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.891f (bia 00d6.fe75.891f)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet107/1/31 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8920 (bia 00d6.fe75.8920)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet107/1/32 is down (SFP not inserted)
+  Hardware: 1000/10000 Ethernet, address: 00d6.fe75.8921 (bia 00d6.fe75.8921)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet108/1/1 is up
+  Hardware: 1000/10000 Ethernet, address: 700b.4f60.6022 (bia 700b.4f60.6022)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet108/1/2 is up
+  Hardware: 1000/10000 Ethernet, address: 700b.4f60.6023 (bia 700b.4f60.6023)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet108/1/3 is up
+  Hardware: 1000/10000 Ethernet, address: 700b.4f60.6024 (bia 700b.4f60.6024)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet108/1/4 is up
+  Hardware: 1000/10000 Ethernet, address: 700b.4f60.6025 (bia 700b.4f60.6025)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet108/1/5 is up
+  Hardware: 1000/10000 Ethernet, address: 700b.4f60.6026 (bia 700b.4f60.6026)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet108/1/6 is up
+  Hardware: 1000/10000 Ethernet, address: 700b.4f60.6027 (bia 700b.4f60.6027)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet108/1/7 is up
+  Hardware: 1000/10000 Ethernet, address: 700b.4f60.6028 (bia 700b.4f60.6028)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet108/1/8 is up
+  Hardware: 1000/10000 Ethernet, address: 700b.4f60.6029 (bia 700b.4f60.6029)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet108/1/9 is up
+  Hardware: 1000/10000 Ethernet, address: 700b.4f60.602a (bia 700b.4f60.602a)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet108/1/10 is up
+  Hardware: 1000/10000 Ethernet, address: 700b.4f60.602b (bia 700b.4f60.602b)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet108/1/11 is up
+  Hardware: 1000/10000 Ethernet, address: 700b.4f60.602c (bia 700b.4f60.602c)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet108/1/12 is up
+  Hardware: 1000/10000 Ethernet, address: 700b.4f60.602d (bia 700b.4f60.602d)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet108/1/13 is up
+  Hardware: 1000/10000 Ethernet, address: 700b.4f60.602e (bia 700b.4f60.602e)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet108/1/14 is up
+  Hardware: 1000/10000 Ethernet, address: 700b.4f60.602f (bia 700b.4f60.602f)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet108/1/15 is up
+  Hardware: 1000/10000 Ethernet, address: 700b.4f60.6030 (bia 700b.4f60.6030)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet108/1/16 is up
+  Hardware: 1000/10000 Ethernet, address: 700b.4f60.6031 (bia 700b.4f60.6031)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet108/1/17 is up
+  Hardware: 1000/10000 Ethernet, address: 700b.4f60.6032 (bia 700b.4f60.6032)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet108/1/18 is up
+  Hardware: 1000/10000 Ethernet, address: 700b.4f60.6033 (bia 700b.4f60.6033)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet108/1/19 is up
+  Hardware: 1000/10000 Ethernet, address: 700b.4f60.6034 (bia 700b.4f60.6034)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet108/1/20 is up
+  Hardware: 1000/10000 Ethernet, address: 700b.4f60.6035 (bia 700b.4f60.6035)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet108/1/21 is up
+  Hardware: 1000/10000 Ethernet, address: 700b.4f60.6036 (bia 700b.4f60.6036)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet108/1/22 is up
+  Hardware: 1000/10000 Ethernet, address: 700b.4f60.6037 (bia 700b.4f60.6037)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet108/1/23 is up
+  Hardware: 1000/10000 Ethernet, address: 700b.4f60.6038 (bia 700b.4f60.6038)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet108/1/24 is up
+  Hardware: 1000/10000 Ethernet, address: 700b.4f60.6039 (bia 700b.4f60.6039)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet108/1/25 is up
+  Hardware: 1000/10000 Ethernet, address: 700b.4f60.603a (bia 700b.4f60.603a)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet108/1/26 is up
+  Hardware: 1000/10000 Ethernet, address: 700b.4f60.603b (bia 700b.4f60.603b)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet108/1/27 is up
+  Hardware: 1000/10000 Ethernet, address: 700b.4f60.603c (bia 700b.4f60.603c)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet108/1/28 is up
+  Hardware: 1000/10000 Ethernet, address: 700b.4f60.603d (bia 700b.4f60.603d)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet108/1/29 is up
+  Hardware: 1000/10000 Ethernet, address: 700b.4f60.603e (bia 700b.4f60.603e)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet108/1/30 is up
+  Hardware: 1000/10000 Ethernet, address: 700b.4f60.603f (bia 700b.4f60.603f)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet108/1/31 is up
+  Hardware: 1000/10000 Ethernet, address: 700b.4f60.6040 (bia 700b.4f60.6040)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision
+Ethernet108/1/32 is up
+  Hardware: 1000/10000 Ethernet, address: 700b.4f60.6041 (bia 700b.4f60.6041)
+    0 runts  0 giants  0 CRC  0 no buffer
+    0 input error  0 short frame  0 overrun   0 underrun  0 ignored
+    0 output error  0 collision  0 deferred  0 late collision

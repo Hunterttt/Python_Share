@@ -2,16 +2,16 @@ import telnetlib
 
 Host = "192.168.32.101"   # 跳板机ip
 J_username = 'admin'
-J_password = 'Admin@123'
-J_enable = '123.com'
+J_password = 'admin@123'
+J_enable = 'admin@123'
 
-k7_username = 'Cisco'
-k7_password = '123.com'
+k7_username = 'admin'
+k7_password = 'Admin@123'
 
 
 def get_mac(xoutput):
-    list2d = xoutput.split(' ')
-    for i in list2d:
+    t_list = xoutput.split(' ')
+    for i in t_list:
         if len(i) == 14 and '.' in i:
             return(i)
         else:
@@ -25,7 +25,7 @@ if __name__ == '__main__':
     tn.set_debuglevel(0)    #The higher the value of debuglevel, the more debug output you get 
 
     tn.read_until(b'Username:')   # 这个是获取提示的，有的机器显示的是login或者其他的，根据自己情况修改就行了
-    tn.write(bytes(J_username, encoding= 'utf-8') + b'\n')     #相当于b
+    tn.write(bytes(J_username, encoding= 'utf-8') + b'\n')    #相当于b
     tn.read_until(b'Password:')
     tn.write(bytes(J_password, encoding= 'utf-8') + b'\n')
     tn.read_until(b'>')
@@ -34,9 +34,9 @@ if __name__ == '__main__':
     tn.write(bytes(J_enable, encoding= 'utf-8') + b'\n')
 
     tn.read_until(b'#')
-    tn.write(b"telnet 192.168.12.2" + b'\n')   # 跳到服务器
+    tn.write(b"telnet 10.16.63.104 /source vlan 61" + b'\n')   # 跳到服务器
 
-    tn.read_until(b'Username:')  
+    tn.read_until(b'login:')  
     tn.write(bytes(k7_username, encoding= 'utf-8') + b'\n')
     tn.read_until(b'Password:')
     tn.write(bytes(k7_password, encoding= 'utf-8') + b'\n')
